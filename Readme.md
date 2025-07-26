@@ -71,7 +71,7 @@ The Power BI dashboard was designed with clarity and business-readability in min
 
 ## 📷 Visuals
 
-![Vendor Performance Dashboard](https://github.com/Garimakushh/Vendor-Performance-Analysis/blob/2eb8ed1029b02bed149cc69079d3c4cb83eb17d9/dashboard.jpg)
+![Vendor Performance Dashboard](https://github.com/harsit6299/Vendor_Performance_Analysis/blob/a7cf4c2fa48fde8f76a56fcfdbb8417fbc696aab/Snapshot.png)
 ---
 
 ## 🔍 Use Cases
